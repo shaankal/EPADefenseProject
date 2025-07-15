@@ -80,6 +80,9 @@ Each bar shows:
 
 Make sure you have the following R packages installed:
 
+
+source("OffensiveSchemesVSC2.R")
 ```r
 install.packages(c("nflfastR", "tidyverse", "data.table", "ggimage"))
+
 
