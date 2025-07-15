@@ -37,7 +37,7 @@ Using 2024 play-by-play data from [`nflfastR`](https://www.nflfastr.com/), this 
 
 | File | Description |
 |------|-------------|
-| `formation_epa_analysis.R` | Main R script containing data processing, grouping, plotting |
+| `"OffensiveSchemesVSC2.R"` | Main R script containing data processing, grouping, plotting |
 | `epa_afc_by_formation.png` | Final visualization of AFC defenses |
 | `epa_nfc_by_formation.png` | Final visualization of NFC defenses |
 | `README.md` | This documentation file |
